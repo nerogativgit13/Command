@@ -1,0 +1,17 @@
+16. du command
+Kalai ingin mengecek berapa banyak ruang yang digunakan 
+file atau direktori, gunakan perintah dasar Linux du. 
+Anda bisa menjalankannya untuk mengidentifikasi 
+bagian sistem mana yang menggunakan penyimpanan secara berlebihan.
+Ingat, Anda harus menentukan path direktori saat 
+menggunakan perintah du. Contohnya, 
+untuk mengecek /home/user/Documents, masukkan :
+- du /home/user/Documents
+Menambahkan flag ke command du akan mengubah operasi, seperti :
+• -s memberikan informasi ukuran total folder tertentu.
+• -m menampilkan informasi folder dan file dalam MB
+• k menampilkan informasi dalam KB.
+• -h menunjukkan tanggal modifikasi terakhir folder dan 
+file yang ditampilkan.
+
+
