@@ -1,0 +1,12 @@
+18. tail command
+Perintah tail menampilkan 10 baris terakhir
+isi file. Command ini memungkinkan Anda mengecek 
+apakah file memiliki data baru, atau untuk 
+membaca pesan error.
+Format umumnya adalah seperti berikut :
+- tail [option] [file]
+Misalnya, Anda ingin menampilkan sepuluh baris 
+terakhir file warna.txt :
+- tail -n warna.txt
+
+
