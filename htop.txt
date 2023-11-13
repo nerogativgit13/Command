@@ -1,0 +1,16 @@
+39. htop command
+Perintah dasar Linux htop adalah program interaktif 
+yang memantau resource sistem dan proses server secara real time. 
+Command ini tersedia di sebagian besar distro Linux, dan Anda bisa 
+menginstalnya menggunakan package manager default.
+Dibandingkan dengan command top, htop memiliki 
+banyak peningkatan dan fitur tambahan, seperti pengoperasian
+mouse dan indikator visual.
+Untuk menggunakannya, jalankan perintah berikut :
+- htop [opsi]
+Anda juga bisa menambahkan opsi, seperti :
+• -d atau –delay menunjukkan penundaan antar update dalam sepersepuluh detik.
+• -C atau –no-color mengaktifkan mode monokrom.
+• -h atau –help menampilkan pesan bantuan dan keluar.
+
+
