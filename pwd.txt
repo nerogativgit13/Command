@@ -1,0 +1,12 @@
+2. pwd command
+Gunakan perintah dasar Linux pwd untuk menemukan path direktori 
+kerja Anda saat ini. Cukup sengan memasukkan pwd, path saat ini 
+akan ditampilkan penuh, yaitu path semua direktori yang diawali dengan 
+garis miring (/). Misalnya, /home/username.
+Perintah pwd menggunakan syntax berikut:
+pwd [opsi]
+Ada dua opsi yang bisa digunakan:
+
+• -L atau –logical menampilkan konten variabel environment, 
+   termasuk link simbolik.
+• -P atau –physical menampilkan path aktual direktori saat ini.
