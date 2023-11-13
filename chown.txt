@@ -1,0 +1,11 @@
+22. chown command
+Sebagai perintah dasar pada Linux, 
+chown memungkinkan Anda mengubah atau mentransfer 
+kepemilikan file, direktori, atau link simbolik 
+ke username tertentu.
+Format dasarnya seperti ini :
+- chown [opsi] owner[:group] file(s)
+Contohnya, Anda ingin menjadikan linuxuser2 
+sebagai pemilik namafile.txt :
+- chown linuxuser2 namafile.txt
+
