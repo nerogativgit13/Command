@@ -1,0 +1,7 @@
+33. hostname command
+hostname merupakan perintah dasar pada Linux yang 
+dapat Anda gunakan jika ingin mengetahui nama host/network. 
+Dengan menambahkan -I di akhir command, alamat IP
+jaringan akan ditampilkan.
+
+
