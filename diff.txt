@@ -1,0 +1,19 @@
+19. diff command
+Singkatan dari ‘difference’, diff adalah perintah 
+dasar Linux yang membandingkan konten atau isi dua 
+file secara baris demi baris. Setelah menganalisis 
+file, perintah ini akan menghasilkan output berupa line 
+atau baris yang tidak cocok.
+Programmer sering menggunakan command diff ketika perlu 
+membuat perubahan pada program agar tidak perlu menulis 
+ulang seluruh kode sumber.
+Ini format umumnya :
+- diff [opsi] file1 file2
+Misalnya, Anda ingin membandingkan dua file teks, 
+yaitu note.txt dan note_update.txt :
+- diff note.txt note_update.txt
+Berikut adalah beberapa opsi yang bisa ditambahkan :
+• -c menampilkan perbedaan antara dua file dalam bentuk konteks.
+• -u menampilkan output tanpa informasi berlebihan.
+• -i menghapus aturan case sensitive untuk perintah diff.
+
