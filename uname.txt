@@ -1,0 +1,7 @@
+27. uname command
+uname, akronim dari Unix Name, adalah 
+perintah dasar sistem operasi Linux yang akan 
+mencetak informasi lengkap mengenai sistem Linux, 
+misalnya nama mesin, sistem operasi, kernel, dan lain-lain.
+
+
