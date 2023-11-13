@@ -1,0 +1,14 @@
+4. Is command
+Is merupakan perintah dasar Linux yang digunakan 
+untuk melihat file dan direktori pada sistem. Menjalankannya 
+tanpa flag atau parameter akan menampilkan konten 
+direktori kerja saat ini.
+Untuk melihat isi direktori lain, ketik Is diikuti path 
+direktori yang diinginkan. Contohnya, untuk melihat file dalam
+folder Documents, ketikkan:
+ls /home/username/Documents
+Berikut beberapa opsi yang bisa digunakan dengan perintah dasar Linux Is :
+
+• Is -R akan mencantumkan semua file yang ada di subdirektori.
+• Is -a akan menampilkan file yang tersembunyi bersama file yang terlihat.
+• ls -lh menampilkan ukuran file dalam format yang mudah dibaca, seperti MB, GB, dan TB.
