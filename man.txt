@@ -1,0 +1,8 @@
+30. man command
+Bingung dengan fungsi dari command Linux 
+tertentu? Untuk mempelajarinya langsung dari
+shell Linux, Anda bisa menggunakan command man. 
+Sebagai contoh, dengan menambahkan perintah man tail,
+Anda akan disodorkan instruksi manual dari perintah tail.
+
+
