@@ -1,0 +1,16 @@
+37. alias, unalias commands
+alias memungkinkan Anda membuat shortcut dengan fungsi
+yang sama seperti perintah, nama file, atau teks, 
+Saat dijalankan, command ini memerintahkan shell untuk 
+mengganti sebuah string dengan lainnya.
+Untuk menggunakan alias, gunakan syntax berikut :
+- alias Name=String
+Misalnya Anda ingin menjadikan k sebagai 
+alias untuk perintah kill :
+- alias k=’kill’
+Di sisi lain, command unalias 
+menghapus alias yang sudah ada.
+Berikut syntax umumnya :
+- unalias [alias_name]
+
+
