@@ -1,0 +1,12 @@
+13. find command
+Gunakan perintah find untuk mencari file dalam direktori 
+tertentu dan menjalankan operasi berikutnya. Syntax umumnya 
+adalah seperti berikut :
+- find [opsi] [path] [ekspresi]
+Misalnya, Anda ingin mencari file bernama notes.txt di 
+dalam direktori home dan subfoldernya :
+- find /home -name notes.txt
+Di bawah ini adalah variasi lain saat menggunakan find :
+• find -name namafile.txt untuk menemukan file di direktori saat ini.
+• find ./ -type d -name namadirektori untuk mencari direktori.
+
