@@ -1,0 +1,28 @@
+24. kill command
+Jika tidak ada program yang responsif, Anda bisa 
+mematikannya secara manual dengan menggunakan 
+command dasar Linux kill. Perintah kill akan
+mengirimkan sinyal tertentu ke aplikasi 
+yang bermasalah dan memberi instruksi kepada aplikasi
+tersebut untuk berakhir atau mati dengan sendirinya.
+Totalnya ada 64 sinyal yang dapat digunakan,
+tapi biasanya orang-orang hanya menggunakan dua
+sinyal, yakni :
+- SIGTERM (15) – meminta program untuk berhenti bekerja 
+  dan memberikannya waktu untuk menyimpan semua
+  progress. Jika tidak ada sinyal khusus yang 
+  ditentukan ketika memasukkan perintah kill, 
+  sinyal inilah yang akan digunakan. 
+- SIGKILL (9) – memaksa program untuk berhenti bekerja
+  saat itu juga. Progress yang tidak tersimpan akan
+  hilang.
+- Selain sinyal, Anda juga harus tahu nomor 
+  identifikasi proses (process identification number
+  – PID) dari sebuah program yang hendak dihentikan 
+  (kill). Jika tidak tahu PID-nya, Anda bisa 
+  menjalankan command ps ux.
+Setelah mengetahui sinyal yang ingin digunakan dan
+PID program, masukkan syntax ini: kill [signal option] 
+PID.
+
+
