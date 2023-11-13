@@ -1,0 +1,15 @@
+6. cp command
+Gunakan perintah dasar Linux cp untuk menyalin file atau
+direktori beserta isinya. Kami akan memberikan contohnya.
+Untuk menyalin satu file dari direktori saat ini ke direktori 
+lain, masukkan cp diikuti dengan nama file dan direktori tujuan. Misalnya :
+- cp filename.txt /home/username/Documents
+Untuk menyalin file ke sebuah direktori, masukkan nama file 
+diikuti dengan direktori tujuannya:
+- cp namafile1.txt namafile2.txt namafile3.txt /home/username/Documents
+Untuk menyalin konten file ke file baru di direktori yang sama, 
+masukkan cp diikuti dengan file sumber dan file tujuan:
+- cp namafile1.txt namafile2.txt
+Untuk menyalin seluruh direktori, berikan flag -R sebelum 
+mengetik direktori sumber, diikuti oleh direktori tujuan :
+• cp -R /home/username/Documents /home/username/Documents_backup
