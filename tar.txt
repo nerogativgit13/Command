@@ -1,0 +1,21 @@
+20. tar command
+Command tar merupakan perintah Linux yang 
+berfungsi untuk mengarsipkan banyak file ke 
+dalam satu file berformat TAR, yaitu format 
+file Linux yang mirip seperti ZIP, 
+dengan kompresi opsional.
+Berikut syntax dasarnya :
+- tar [opsi] [file_arsip] [file atau direktori yang akan diarsip]
+Misalnya, Anda ingin membuat arsip TAR baru 
+bernama arsipbaru.tar di direktori /home/user/Documents :
+- tar -cvf arsipbaru.tar /home/user/Documents
+Perintah tar menerima banyak opsi, seperti :
+• -x mengekstrak sebuah file.
+• -t mencantumkan konten file.
+• -u mengarsipkan dan menambahkan file ke 
+arsip yang sudah ada.
+Kalau ingin tahu lebih lanjut tentang fungsi 
+ini, silakan lihat contoh praktis lainnya.
+
+
+
