@@ -1,0 +1,18 @@
+1. sudo command
+Merupakan singkatan dari superuser do, sudo adalah salah satu 
+perintah dasar Linux paling populer untuk melakukan 
+tugas yang memerlukan izin administratif atau root.
+Saat menggunakan sudo, sistem akan meminta user 
+untuk mengautentikasi dirinya sendiri dengan password. 
+Kemudian, sistem Linux akan mencatat timestamp sebagai tracker. 
+Secara default, setiap user root bisa menjalankan 
+perintah sudo selama 15 menit/sesi.
+Kalau Anda mencoba menjalankan sudo di command line 
+tanpa autentikasi, sistem akan mencatat aktivitas 
+tersebut sebagai peristiwa keamanan.
+Berikut syntax umumnya:
+- sudo (command)
+Anda juga bisa menambahkan opsi, seperti:
+• -k atau –reset-timestamp membatalkan file timestamp.
+• -g atau –group=group menjalankan command sebagai nama atau ID grup tertentu.
+• -h atau –host=host menjalankan command di host.
