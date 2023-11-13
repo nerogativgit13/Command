@@ -1,0 +1,6 @@
+32. zip, unzip command
+Gunakan perintah zip untuk meng-compress 
+file ke arsip zip dan perintah unzip untuk 
+mengekstrak file zip ke arsip zip.
+
+
