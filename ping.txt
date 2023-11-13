@@ -1,0 +1,7 @@
+25. ping command
+Command ping berfungsi untuk mengecek status 
+konektivitas ke server. Misalnya, dengan menambahkan ping 
+google.com, command akan mengecek apakah Anda sudah terhubung 
+ke Google atau belum dan juga mengukur waktu respons.
+
+
