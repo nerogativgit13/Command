@@ -1,0 +1,15 @@
+8. mkdir command
+Gunakan perintah dasar Linux mkdir untuk membuat satu atau beberapa 
+direktori baru sekaligus serta mengatur izinnya masing-masing. 
+User yang menjalankan command ini harus memiliki hak istimewa 
+untuk membuat folder baru di direktori utama, atau akan muncul error 
+izin ditolak.
+Berikut syntax dasarnya :
+- mkdir [opsi] nama_direktori
+Misalnya, Anda ingin membuat direktori bernama Music :
+- mkdir Music
+Perintah mkdir bisa digunakan dengan beberapa opsi, seperti :
+-p atau –parents membuat direktori di antara dua folder yang sudah ada. Misalnya, mkdir -p Music/2020/Songs akan membuat direktori baru bernama “2020”.
+-m mengatur izin file. Misalnya, untuk membuat direktori dengan izin baca, tulis, dan eksekusi penuh bagi semua user, ketikkan mkdir -m777 nama_direktori.
+-v menampilkan pesan untuk setiap direktori yang dibuat.
+
