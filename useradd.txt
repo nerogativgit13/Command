@@ -1,0 +1,14 @@
+34. useradd, userdel command
+Linux adalah sistem multi-user, dan ini
+berarti ada banyak orang yang bisa berinteraksi
+di dalam satu sistem yang sama pada waktu bersamaan. 
+useradd adalah perintah dasar Linux yang digunakan 
+untuk membuat user baru, sedangkan passwd untuk 
+menambahkan password ke akun user tersebut. 
+Untuk menambahkan user bernama John, misalnya, 
+cukup ketikkan useradd John dan passwd 12345678 untuk 
+menambahkan passwordnya.
+Cara menghapus user sama dengan menambahkan user. 
+Untuk menghapus akun user, ketik userdel UserName.
+
+
