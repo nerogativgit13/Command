@@ -1,0 +1,7 @@
+29. history command
+Kalau sudah lihai menggunakan Linux, Anda bisa menjalankan 
+ratusan command atau perintah setiap hari. Misalnya,
+Penggunaan command history untuk mengecek kembali (review) 
+command yang sudah ditambahkan sebelumnya.
+
+
