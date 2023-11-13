@@ -1,0 +1,33 @@
+Bonus: Tips dan Trik
+Gunakan command clear untuk membersihkan terminal
+jika di dalamnya sudah terdapat banyak sekali command.
+Coba tombol TAB untuk mengisi secara otomatis (autofill)
+apa yang sedang Anda ketikkan. Sebagai contoh,
+jika ingin mengetik Documents, mulailah dengan menambahkan 
+command terlebih dulu (misalnya cd Docu, kemudian tekan tombol TAB) 
+dan terminal akan melengkapinya. Hasilnya akan seperti ini :
+- cd Documents.
+- Ctrl+C dan Ctrl+Z 
+digunakan untuk memberhentikan command apa pun yang saat
+ini sedang dijalankan. 
+- Ctrl+C akan memberhentikan command dengan aman,
+sedangkan CTRL+Z akan memaksa command untuk berhenti.
+Bila Anda secara tidak sengaja ‘membekukan’ terminal 
+dengan menekan Ctrl+S, untuk membatalkan ‘pembekuan’ tersebut
+cukup tekan Ctrl+Z.
+Ctrl+A membawa Anda ke awal baris, 
+sedangkan Ctrl+E mengarahkan Anda ke akhir baris.
+Anda bisa menjalankan banyak command atau 
+perintah di dalam satu command dengan menggunakan “;” untuk 
+memisahkan command-command tersebut. Misalnya, 
+Command1; Command2; Command3. Atau gunakan && jika Anda 
+hanya ingin menjalankan command selanjutnya 
+setelah command pertama berhasil dijalankan.
+Kesimpulan
+Perintah dasar Linux membantu user atau penggunanya 
+untuk menjalankan task dengan mudah dan efektif. 
+Memang bukan hal yang mudah untuk mengingat semua
+perintah Linux di atas. Namun, semuanya akan teratasi
+bila Anda terus berlatih dan berlatih.
+
+
