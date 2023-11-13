@@ -1,0 +1,13 @@
+11. locate command
+Perintah locate digunakan untuk menemukan 
+file dalam sistem database.
+Selain itu, menambahkan argumen -i akan menonaktifkan 
+case sensitive (peka huruf besar-kecil) sehingga Anda bisa mencari 
+file meskipun tidak ingat nama persisnya.
+Untuk mencari file yang memuat dua kata atau lebih, 
+gunakan tanda bintang (*). Misalnya:
+- locate -i school*not
+Command di atas akan mencari file yang berisi kata school 
+dan note, baik menggunakan huruf besar maupun huruf kecil.
+
+
