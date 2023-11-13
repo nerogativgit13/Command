@@ -1,0 +1,23 @@
+36. nano, vi, jed command
+Linux memungkinkan user mengedit dan mengelola
+file melalui editor teks, seperti nano, vi, atau jed. 
+nano dan vi disertakan dengan OS, sedangkan jed harus diinstal.
+Command nano menunjukkan keyword dan bisa 
+digunakan dengan hampir semua bahasa. 
+Untuk menggunakannya, masukkan perintah berikut :
+- nano [namafile]
+vi menggunakan dua mode operasi : insert dan command. 
+insert digunakan untuk mengedit dan membuat file teks.
+Sementara itu, command menjalankan operasi seperti 
+menyimpan, membuka, menyalin, dan menempelkan file.
+Untuk menggunakan vi pada file, masukkan :
+- vi [namafile]
+jed memiliki antarmuka menu drop-down 
+yang memungkinkan user melakukan tindakan 
+tanpa harus memasukkan kombinasi keyboard atau command. 
+Seperti vi, perintah ini punya mode untuk
+memuat modul atau plugin guna menulis teks tertentu.
+Untuk membuka program, cukup ketikkan 
+jed ke command line.
+
+
