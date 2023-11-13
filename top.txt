@@ -1,0 +1,10 @@
+28. top command
+Sebagai terminal yang setara dengan Task Manager
+di Windows, command top akan menampilkan daftar proses 
+yang sedang berlangsung dan seberapa banyak ruang CPU 
+yang digunakan oleh tiap proses tersebut. Melakukan pengawasan 
+terhadap penggunaan resource sistem sangatlah disarankan, 
+terutama ketika Anda harus mencari tahu mana proses
+yang perlu dimatikan karena terlalu banyak menggunakan resource.
+
+
