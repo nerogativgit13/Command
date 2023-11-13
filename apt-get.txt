@@ -1,0 +1,16 @@
+35. apt-get command
+apt-get adalah tool command line untuk menangani library
+APT (Advanced Package Tool) di Linux. Anda bisa mengambil
+informasi dan membuat bundle dari sumber terautentikasi
+untuk mengelola, mengupdate, menghapus, dan menginstal 
+software serta dependensinya
+Untuk menjalankan apt-get, Anda harus menggunakan 
+hak akses sudo atau root.
+Berikut syntax utamanya :
+apt-get [opsi] (command)
+Berikut perintah paling umum yang bisa
+Anda tambahkan ke apt-get :
+- update menyinkronkan file package dari sumbernya.
+- upgrade menginstal versi terbaru semua package yang terinstal.
+- check mengupdate cache package dan mengecek dependensi yang rusak.
+
