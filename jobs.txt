@@ -1,0 +1,15 @@
+23. jobs command
+Job adalah proses yang dimulai oleh shell. 
+Comman jobs akan menampilkan semua proses yang berjalan
+beserta statusnya. Perlu diingat bahwa perintah
+ini hanya tersedia di shell csh, bash, tcsh, dan ksh.
+Syntax dasarnya adalah seperti berikut :
+- jobs [opsi] jobID
+Untuk mengecek status job di shell saat ini,
+cukup masukkan jobs ke CLI.
+Berikut beberapa opsi yang bisa Anda gunakan :
+• -l mencantumkan ID proses beserta informasinya.
+• -n mencantumkan job yang statusnya sudah berubah 
+   sejak notifikasi terakhir.
+• -p mencantumkan ID proses saja.
+
