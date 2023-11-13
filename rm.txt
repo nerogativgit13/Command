@@ -1,0 +1,16 @@
+10. rm command
+rm adalah perintah dasar Linux yang berfungsi untuk menghapus 
+file di dalam suatu direktori. Pastikan user yang menjalankan 
+perintah ini memiliki izin tulis.
+Anda harus mengingat lokasi direktori karena command ini akan 
+menghapus file dan Anda tidak bisa membatalkannya.
+Ini syntax umumnya :
+- rm filename
+Untuk menghapus beberapa file, masukkan perintah berikut :
+- rm namafile1 namafile2 namafile3
+Berikut beberapa opsi yang yang bisa Anda tambahkan :
+-i meminta konfirmasi sistem sebelum menghapus file.
+-f memungkinkan sistem menghapus file tanpa konfirmasi.
+-r menghapus file dan direktori secara rekursif.
+
+
