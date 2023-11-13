@@ -1,0 +1,19 @@
+14. grep command
+Perintah dasar Linux lain yang sangat berguna untuk 
+menyelesaikan task harian adalah grep atau ‘global regular 
+expression print’. Command ini memungkinkan Anda 
+mencari sebuah kata melalui pencarian di seluruh 
+teks dalam file tertentu.
+Setelah grep command menemukan kecocokan, 
+semua baris yang memuat pola tertentu 
+akan ditampilkan. Command ini membantu 
+proses filtering dalam file log yang berisi 
+banyak entri.
+Misalnya, Anda ingin mencari kata biru dalam 
+file notepad.txt :
+- grep blue notepad.txt
+Output yang diberikan perintah ini akan menampilkan 
+baris yang memuat kata biru.
+
+
+
