@@ -1,0 +1,16 @@
+15. df command
+Untuk melihat penggunaan ruang disk sistem, 
+gunakan perintah df. Hasil yang diberikan akan 
+menggunakan persentase dan satuan KB (kilobyte). 
+Berikut syntax umumnya :
+- df [opsi] [file]
+Misalnya, masukkan perintah berikut apabila
+Anda ingin melihat penggunaan ruang disk sistem direktori
+saat ini dalam format yang mudah dipahami :
+- df -h
+Ini beberapa opsi yang bisa digunakan dengan command df :
+• df -m menampilkan informasi penggunaan sistem file dalam MB.
+• df -k menampilkan penggunaan sistem file dalam KB.
+• df -T menampilkan type (jenis) sistem file dalam kolom baru.
+
+  
