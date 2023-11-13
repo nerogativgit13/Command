@@ -1,0 +1,8 @@
+31. echo command
+Perintah dasar Linux ini digunakan untuk 
+memindahkan beberapa data ke dalam satu 
+file. Misalnya, jika ingin menambahkan teks, 
+“Hello, my name is John” ke file yang bernama name.txt, 
+yang perlu diketik adalah echo Hello, my name is John >> name.txt.
+
+
