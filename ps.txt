@@ -1,0 +1,20 @@
+40. ps command
+Command Linux ps atau ‘process status’
+menghasilkan snapshot dari semua proses yang berjalan 
+di sistem Anda. Hasil statis diambil dari file virtual 
+di sistem file /proc.
+Menjalankan command ps tanpa opsi atau argumen 
+akan mencantumkan proses yang berjalan di shell beserta :
+- ID proses unik (PID)
+- Jenis terminal (TTY)
+- Waktu berjalan (TIME)
+Perintah yang meluncurkan proses (CMD)
+Berikut adalah beberapa opsi
+yang bisa Anda gunakan :
+• -T menampilkan semua proses yang
+  terkait dengan sesi shell saat ini.
+• -u username mencantumkan proses 
+  yang terkait dengan user tertentu.
+• -A atau -e menunjukkan semua proses yang berjalan.
+
+
