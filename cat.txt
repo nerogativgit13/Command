@@ -1,0 +1,13 @@
+5. cat command
+cat (akronim dari concatenate) adalah salah satu perintah dasar 
+sistem operasi Linux yang paling sering digunakan. 
+Perintah ini berfungsi untuk mencantumkan, menggabungkan, dan 
+menulis konten atau isi file dalam output standar. 
+Untuk menjalankan command ini, ketik cat diikuti nama 
+dan ekstensi file. Sebagai contoh:
+- cat namafile.txt.
+Berikut beberapa cara untuk menggunakan cat command : 
+• cat > namafile.txt membuat file baru.
+• cat namafile.txt namafile2.txt > namafile3.txt menggabungkan 
+  namafile1.txt dan namafile2.txt lalu menyimpan hasilnya di namafile3.txt.
+• tac filename.txt menampilkan konten dalam urutan terbalik.
