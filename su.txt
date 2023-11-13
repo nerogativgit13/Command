@@ -1,0 +1,23 @@
+38. su command
+Perintah Linux su atau ‘switch user’ memungkinkan Anda 
+menjalankan program sebagai user lain. Command ini mengubah
+akun administratif dalam sesi aktif saat ini. Nah, su berguna
+khususnya untuk mengakses sistem melalui SSH atau menggunakan 
+display manager GUI saat user root tidak tersedia.
+Ini syntax umumnya :
+- su [opsi] [username [argumen]]
+Tanpa opsi atau argumen apa pun, command su akan 
+dijalankan melalui hak istimewa akses root. 
+Perintah ini akan meminta Anda mengautentikasi 
+dan menggunakan hak istimewa sudo untuk sementara.
+Berikut adalah beberapa opsi yang bisa digunakan :
+• -p atau –preserve-environment menetapkan 
+  lingkungan shell yang sama, terdiri dari HOME,
+  SHELL, USER, dan LOGNAME.
+• -s atau –shell memungkinkan Anda menentukan 
+  lingkungan shell lain untuk eksekusi.
+• -l or –login menjalankan skrip login untuk 
+  beralih ke username lain. Untuk menjalankannya, Anda 
+  harus memasukkan password user.
+
+
