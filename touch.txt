@@ -1,0 +1,10 @@
+10. touch command
+Selanjutnya, touch command adalah perintah dasar Linux
+yang memungkinkan Anda membuat file baru yang kosong 
+dan mengubah timestamp di command line Linux.
+Contohnya, masukkan perintah berikut untuk membuat file HTML 
+bernama Web di direktori Documents :
+- touch /home/username/Documents/Web.html
+
+
+
