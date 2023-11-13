@@ -1,0 +1,11 @@
+7. mv command
+Fungsi utama command mv adalah untuk memindahkan serta mengganti
+nama file dan direktori. Selain itu, perintah ini tidak 
+memberikan output saat dijalankan.
+Cukup ketik mv kemudian nama file dan direktori tujuan. 
+Misalnya, Anda ingin memindahkan namafile.txt 
+ke direktori /home/username/Documents :
+- mv filename.txt /home/username/Documents.
+Anda juga bisa menggunakan command mv untuk 
+mengganti nama file :
+• mv namafile_lama.txt namafile_baru.txt
