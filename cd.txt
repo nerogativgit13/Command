@@ -1,0 +1,20 @@
+3. cd command
+Untuk menjelajahi file dan direktori Linux, gunakan perintah cd. 
+Perintah Linux ini memerlukan path penuh atau nama direktori, 
+tergantung pada direktori kerja Anda saat ini.
+Menjalankan perintah ini tanpa opsi akan mengarahkan 
+Anda ke folder utama. Ingat, hanya user yang punya hak 
+istimewa sudo yang bisa menjalankannya.
+Misalnya saat ini Anda sedang berada di /home/username/Documents dan 
+ingin membuka Photos, subdirektori dari Documents. Untuk
+melakukannya, Anda hanya perlu mengetikkan command berikut:
+cd Photos.
+Contoh lainnya, ketika Anda ingin beralih ke direktori
+baru, misalnya /home/username/Movies, Anda perlu mengetikkan 
+cd diikuti path absolut direktori tersebut:
+cd /home/username/Movies.
+Berikut beberapa shortcut untuk memudahkan navigasi:
+
+• cd ~[username] membuka direktori utama user lain.
+• cd .. berpindah satu direktori ke atas.
+• cd- berpindah ke direktori sebelumnya.
