@@ -1,0 +1,22 @@
+17. head command
+Perintah head memungkinkan Anda melihat 
+sepuluh baris pertama teks. Dengan menambahkan opsi, 
+Anda bisa mengubah jumlah baris yang ditampilkan. 
+Command head juga digunakan untuk menampilkan data yang
+disalurkan (piped) ke CLI.
+Syntax umumnya adalah seperti berikut :
+- head [opsi] [file]
+Sebagai contoh, misalnya Anda ingin menampilkan
+sepuluh baris pertama file note.txt, yang terletak
+di direktori saat ini:
+- head note.txt
+Berikut adalah beberapa opsi yang bisa ditambahkan :
+• -n atau –lines menampilkan sekian jumlah baris 
+pertama sesuai permintaan. Misalnya, 
+ketikkan head -n 5 namafile.txt untuk menampilkan lima 
+baris pertama isi file namafile.txt.
+• -c atau –bytes menunjukkan sekian jumlah byte 
+pertama file sesuai permintaan.
+• -q atau –quiet tidak akan menampilkan 
+header yang menyebutkan nama file.
+
