@@ -1,0 +1,9 @@
+9. rmdir command
+Perintah rmdir adalah perintah untuk menghapus direktori 
+yang tidak ada isinya. Perlu diingat bahwa user yang menjalankan 
+perintah ini harus memiliki hak istimewa sudo di direktori induk.
+Misalnya, Anda ingin menghapus subdirektori kosong bernama 
+personal1 dan folder utamanya adalah mydir :
+- rmdir -p mydir/personal1
+
+
