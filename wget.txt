@@ -1,0 +1,7 @@
+26. wget command
+Perintah dasar Linux ini sangat berguna
+– Anda bahkan bisa mengunduh file dari internet dengan 
+bantuan command wget. Anda hanya perlu mengetikkan wget 
+yang diikuti dengan link unduhan.
+
+
