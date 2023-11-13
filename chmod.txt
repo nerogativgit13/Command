@@ -1,0 +1,24 @@
+21. chmod command
+Command chmod adalah perintah dasar 
+Linux lainnya yang digunakan untuk mengubah izin 
+baca, tulis, dan eksekusi direktori. 
+Di Linux, setiap file dikaitkan dengan tiga kelas 
+user, yaitu pemilik (owner), 
+anggota grup (group member), dan lainnya (others).
+Berikut syntax dasarnya :
+- chmod [opsi] [izin] [nama_file]
+Contohnya, pemilik saat ini adalah satu-satunya 
+user yang memiliki izin penuh untuk mengubah 
+note.txt. Agar anggota grup dan orang lain 
+bisa turut membaca, menulis, dan mengeksekusi 
+file, ubah izin ke jenis izin -rwxrwxrwx, 
+yang nilai numeriknya adalah 777 :
+- chmod 777 note.txt
+Perintah ini mendukung banyak opsi, termasuk :
+• -c atau –changes menampilkan informasi 
+   apabila ada perubahan yang dilakukan.
+• -f atau –silent menonaktifkan pesan error.
+• -v or –verbose menampilkan diagnostik untuk 
+   setiap file yang diproses.
+
+
